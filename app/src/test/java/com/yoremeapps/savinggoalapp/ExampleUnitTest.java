@@ -1,4 +1,4 @@
-package com.example.savinggoalapp;
+package com.yoremeapps.savinggoalapp;
 
 import org.junit.Test;
 

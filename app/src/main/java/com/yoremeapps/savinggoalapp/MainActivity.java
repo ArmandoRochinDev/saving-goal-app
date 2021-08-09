@@ -1,4 +1,4 @@
-package com.example.savinggoalapp;
+package com.yoremeapps.savinggoalapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 
